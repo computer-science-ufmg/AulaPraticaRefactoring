@@ -1,3 +1,7 @@
+package Movie;
+
+import Movie.Movie;
+
 public class Rental {
 
     private Movie _movie;

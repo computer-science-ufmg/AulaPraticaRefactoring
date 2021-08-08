@@ -1,3 +1,7 @@
+package Customer;
+
+import Movie.Rental;
+
 import java.util.Enumeration;
 import java.util.Vector;
 
